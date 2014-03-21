@@ -1,0 +1,4 @@
+FlxWaveSpriteDemo
+=========
+
+Demonstrates FlxWaveSprite functionality.
